@@ -1,6 +1,6 @@
-# Title
+# Comedian Chatbot
 
-Simple (or clever and funny?) description
+Bilingual chatbot that will lighten the mood by telling jokes.
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+This chatbot exists to help people who are having a bad day get some laughs regardless of the language they speak. 
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+This version uses 3.8.2
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+To use the application, all you have to do is read and respond to the robot's questions.
 
-### Any optional sections
+
