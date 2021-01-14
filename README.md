@@ -22,4 +22,6 @@ This version uses 3.8.2
 
 To use the application, all you have to do is read and respond to the robot's questions.
 
+Tim's simple change.
+
 
